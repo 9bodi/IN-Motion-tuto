@@ -1,0 +1,227 @@
+1
+00:00:00,600 --> 00:00:06,633
+Bonjour. Nous allons créer votre Identité
+Numérique La Poste, une étape à la fois.
+
+2
+00:00:06,800 --> 00:00:11,833
+Vous pouvez mettre cette
+vidéo en pause à tout moment.
+
+3
+00:00:12,000 --> 00:00:17,233
+Elle sert à prouver qui vous êtes
+sur internet, en toute sécurité.
+
+4
+00:00:17,400 --> 00:00:23,033
+Ce tutoriel est indépendant. Ce n’est
+pas une vidéo officielle de La Poste.
+
+5
+00:00:23,200 --> 00:00:30,233
+Il y a trois grandes étapes : s’inscrire, faire
+vérifier son identité, puis activer l’application.
+
+6
+00:00:32,400 --> 00:00:35,633
+Avant de commencer, vérifions trois conditions.
+
+7
+00:00:35,800 --> 00:00:41,633
+Un : avoir 18 ans révolus,
+c’est-à-dire avoir déjà fêté ses 18 ans.
+
+8
+00:00:41,800 --> 00:00:46,233
+Deux : avoir une pièce d’identité
+française, en cours de validité.
+
+9
+00:00:46,400 --> 00:00:51,633
+Seules ces pièces sont acceptées : la carte
+d’identité française, le passeport français…
+
+10
+00:00:51,800 --> 00:00:57,433
+… ou un titre de séjour français
+valable au moins cinq ans.
+
+11
+00:00:57,600 --> 00:01:02,433
+Trois : avoir un smartphone compatible,
+et un numéro de mobile éligible.
+
+12
+00:01:02,600 --> 00:01:09,833
+Il faut un téléphone Android version 12
+ou plus, ou un iPhone avec iOS 16 ou plus.
+
+13
+00:01:10,000 --> 00:01:15,033
+Les conditions à jour sont
+indiquées sur le site officiel.
+
+14
+00:01:15,200 --> 00:01:23,833
+Vous avez déjà un compte La Poste ? Gardez votre
+e-mail et votre mot de passe à portée de main.
+
+15
+00:01:25,800 --> 00:01:29,633
+Étape 1 : installer l’application et vous inscrire.
+
+16
+00:01:29,800 --> 00:01:35,033
+Ouvrez la boutique d’applications :
+App Store sur iPhone, Google Play sur Android.
+
+17
+00:01:35,200 --> 00:01:39,233
+Recherchez : L’Identité Numérique
+La Poste. Vérifiez bien ce nom.
+
+18
+00:01:39,400 --> 00:01:42,733
+L’application est gratuite.
+Installez-la, puis ouvrez-la.
+
+19
+00:01:42,900 --> 00:01:49,333
+Vous avez un compte La Poste ? Connectez-vous
+avec votre e-mail et votre mot de passe.
+
+20
+00:01:49,500 --> 00:01:52,933
+Sinon, choisissez de créer un compte.
+
+21
+00:01:53,100 --> 00:01:59,133
+Suivez les indications : votre numéro de mobile,
+puis les informations de votre pièce d’identité.
+
+22
+00:01:59,300 --> 00:02:02,533
+Recopiez-les exactement comme
+sur votre pièce d’identité.
+
+23
+00:02:02,700 --> 00:02:07,933
+Si vous recevez un code par SMS,
+recopiez-le dans l’application.
+
+24
+00:02:08,100 --> 00:02:14,733
+À vous ! Mettez la vidéo en pause
+le temps de faire cette étape.
+
+25
+00:02:17,700 --> 00:02:21,133
+Étape 2 : faire vérifier votre identité.
+
+26
+00:02:21,300 --> 00:02:25,933
+Vous avez deux possibilités.
+Choisissez celle qui vous convient.
+
+27
+00:02:26,100 --> 00:02:29,733
+Première possibilité :
+en ligne, avec votre smartphone.
+
+28
+00:02:29,900 --> 00:02:35,133
+Suivez les instructions de l’application :
+filmez votre pièce d’identité, puis votre visage.
+
+29
+00:02:35,300 --> 00:02:39,933
+Ensuite, une personne chargée du
+contrôle vérifie ces éléments.
+
+30
+00:02:40,100 --> 00:02:43,333
+Deuxième possibilité : en bureau de poste.
+
+31
+00:02:43,500 --> 00:02:46,733
+Présentez-vous au guichet
+avec votre pièce d’identité.
+
+32
+00:02:46,900 --> 00:02:51,933
+Un chargé de clientèle vérifie
+votre identité et vous accompagne.
+
+33
+00:02:52,100 --> 00:02:56,733
+Vous préférez être aidé ?
+Choisissez le bureau de poste.
+
+34
+00:02:56,900 --> 00:03:01,533
+Faites vérifier votre identité,
+puis reprenez la vidéo.
+
+35
+00:03:04,500 --> 00:03:07,933
+Étape 3 : activer votre Identité Numérique.
+
+36
+00:03:08,100 --> 00:03:11,333
+Une fois votre identité vérifiée,
+ouvrez l’application.
+
+37
+00:03:11,500 --> 00:03:15,133
+Saisissez votre code d’activation,
+en suivant les instructions.
+
+38
+00:03:15,300 --> 00:03:18,133
+Puis choisissez votre code secret.
+
+39
+00:03:18,300 --> 00:03:22,933
+Il vous servira à confirmer vos
+connexions, depuis l’application.
+
+40
+00:03:23,100 --> 00:03:28,133
+Ce code est personnel. Ne le communiquez à personne.
+
+41
+00:03:28,500 --> 00:03:33,133
+Activez votre Identité Numérique,
+puis reprenez la vidéo.
+
+42
+00:03:36,100 --> 00:03:37,933
+Récapitulons.
+
+43
+00:03:38,100 --> 00:03:40,033
+S’inscrire.
+
+44
+00:03:40,200 --> 00:03:42,733
+Faire vérifier son identité.
+
+45
+00:03:42,900 --> 00:03:45,333
+Activer l’application.
+
+46
+00:03:45,500 --> 00:03:50,733
+Les informations à jour sont sur le site
+officiel : lidentitenumerique.laposte.fr
+
+47
+00:03:50,900 --> 00:03:56,733
+Et si vous avez besoin d’aide,
+rendez-vous dans un bureau de poste.
+
+48
+00:03:56,900 --> 00:04:00,333
+Merci d’avoir suivi ce tutoriel.
+
