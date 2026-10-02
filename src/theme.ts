@@ -1,7 +1,8 @@
 /**
  * Charte du tutoriel — volontairement distincte de la charte La Poste
- * (pas de jaune ni de bleu La Poste) : vert sarcelle comme unique couleur d'accent.
- * Contrastes (WCAG) : ink/bg ≈ 16:1 ; accent/surface ≈ 6,6:1 ; inkSoft/bg ≈ 7,6:1.
+ * (pas de jaune ni de bleu La Poste) : bleu nuit #1a2744 comme couleur secondaire (accent),
+ * en accord avec le logo EF.
+ * Contrastes (WCAG) : ink/bg ≈ 16:1 ; accent/surface ≈ 15:1 ; inkSoft/bg ≈ 7,6:1.
  */
 export const C = {
 	bg: '#F5F3EE',
@@ -10,8 +11,8 @@ export const C = {
 	inkSoft: '#454A55',
 	line: '#D8D3C8',
 	muted: '#ECE9E2',
-	accent: '#0E6B5B',
-	accentSoft: '#D5ECE6',
+	accent: '#1A2744',
+	accentSoft: '#DFE4EE',
 	onAccent: '#FFFFFF',
 	subtitleBg: 'rgba(21, 23, 28, 0.92)',
 } as const;

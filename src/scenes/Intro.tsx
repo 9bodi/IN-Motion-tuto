@@ -5,6 +5,7 @@ import {C, LAYOUT} from '../theme';
 import {appear, rise} from '../components/anim';
 import {SceneShell} from '../components/SceneShell';
 import {IconInfo, IconPause, IconShield} from '../components/Icons';
+import {LogoEF} from '../components/Logo';
 
 const scene = getScene('intro');
 const STEPS = ['S’inscrire', 'Faire vérifier son identité', 'Activer l’application'];
@@ -25,10 +26,13 @@ export const Intro: React.FC = () => {
 		<SceneShell scene={scene}>
 			{frame < tWhat ? (
 				<AbsoluteFill style={{justifyContent: 'center', paddingLeft: LAYOUT.leftX, opacity: phase1Out}}>
+					<div style={{position: 'absolute', right: 160, top: 300, opacity: appear(frame, 0, 24)}}>
+						<LogoEF size={340} />
+					</div>
 					<div style={{...rise(appear(frame, 6)), fontSize: 32, fontWeight: 700, color: C.accent, letterSpacing: 2, textTransform: 'uppercase'}}>
 						Tutoriel pas à pas
 					</div>
-					<div style={{...rise(appear(frame, 12)), fontSize: 104, fontWeight: 800, lineHeight: 1.04, marginTop: 16, maxWidth: 1500}}>
+					<div style={{...rise(appear(frame, 12)), fontSize: 104, fontWeight: 800, lineHeight: 1.04, marginTop: 16, maxWidth: 1150}}>
 						Créer son Identité Numérique La Poste
 					</div>
 					<div style={{...rise(appear(frame, 20)), fontSize: 46, color: C.inkSoft, marginTop: 20}}>étape par étape</div>

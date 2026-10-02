@@ -5,6 +5,7 @@ import {C} from '../theme';
 import {appear, rise} from '../components/anim';
 import {SceneShell} from '../components/SceneShell';
 import {IconBuilding, IconCheck, IconGlobe, IconInfo} from '../components/Icons';
+import {LogoEF} from '../components/Logo';
 
 const scene = getScene('conclusion');
 const STEPS = [
@@ -69,7 +70,8 @@ export const Conclusion: React.FC = () => {
 						Besoin d’aide ? Rendez-vous en bureau de poste.
 					</div>
 					{frame >= tThanks ? (
-						<div style={{...rise(appear(frame, tThanks)), marginTop: 50, display: 'flex', alignItems: 'center', gap: 12, fontSize: 24, color: C.inkSoft, maxWidth: 1300, textAlign: 'center'}}>
+						<div style={{...rise(appear(frame, tThanks)), marginTop: 50, display: 'flex', alignItems: 'center', gap: 12, fontSize: 24, color: C.inkSoft, maxWidth: 1600, textAlign: 'center'}}>
+							<LogoEF size={64} />
 							<IconInfo size={30} color={C.inkSoft} />
 							Tutoriel indépendant, non affilié à La Poste. Les écrans sont illustratifs ; les données présentées sont fictives.
 						</div>

@@ -8,7 +8,8 @@ Les minutages fins de chaque réplique sont dans [`01-script-voix-off.md`](01-sc
 | Élément | Règle |
 |---|---|
 | Fond / texte | Fond crème clair `#F5F3EE`, texte quasi noir `#15171C` (contraste ≈ 16:1). |
-| Accent | Une seule couleur : vert sarcelle `#0E6B5B`. Aucune reprise du jaune ni du bleu La Poste, aucun logo. |
+| Accent | Une seule couleur secondaire : bleu nuit `#1A2744` (teinte claire `#DFE4EE` pour les halos). Aucune reprise du jaune ni du bleu La Poste, aucun logo La Poste. |
+| Logo EF | Logo de l'auteur (`public/logo-ef.png`) : en grand sur le titre d'ouverture, en petit en haut à droite de chaque plan, et sur la mention de fin. |
 | Typographie | Inter (sans empattement), embarquée localement. Titres 56–104 px, consignes 58 px, détails 32–36 px. |
 | Une action à la fois | Zone gauche : **une** consigne. Zone droite : téléphone ou illustration. Les éléments passés sont atténués, jamais en même temps qu'une nouvelle consigne. |
 | Téléphone | Smartphone générique de face, sans perspective, 360 × 720 px. Écrans **schématiques** (barres grises à la place des textes, boutons sans libellé). Mention permanente sous l'écran : « Écran illustratif — l'affichage peut varier ». |

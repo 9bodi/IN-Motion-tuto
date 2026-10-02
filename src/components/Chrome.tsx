@@ -2,6 +2,7 @@ import React from 'react';
 import {AbsoluteFill} from 'remotion';
 import {C, DRAFT_MODE} from '../theme';
 import {IconInfo} from './Icons';
+import {LogoEF} from './Logo';
 
 const STEPS = ['S’inscrire', 'Vérifier son identité', 'Activer'];
 
@@ -53,7 +54,7 @@ export const Chrome: React.FC<{step?: number; sublabel?: string}> = ({step, subl
 			style={{
 				position: 'absolute',
 				right: 48,
-				top: 44,
+				top: 32,
 				display: 'flex',
 				alignItems: 'center',
 				gap: 8,
@@ -64,6 +65,7 @@ export const Chrome: React.FC<{step?: number; sublabel?: string}> = ({step, subl
 		>
 			<IconInfo size={22} color={C.inkSoft} />
 			Tutoriel indépendant — non officiel
+			<LogoEF size={52} style={{marginLeft: 10}} />
 		</div>
 		{DRAFT_MODE ? (
 			<div
